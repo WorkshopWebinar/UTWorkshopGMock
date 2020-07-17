@@ -17,7 +17,7 @@ $ make
 $ sudo make install
 
 
-#Run build and test result
+# Run build and test result
 
 $ mkdir build
 
