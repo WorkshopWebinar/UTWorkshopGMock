@@ -16,9 +16,8 @@ include_directories(${GTEST_INCLUDE_DIR})
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(GMockTestExamples 
-        src/CoinFlipper.cpp  src/CoinFlipper.hpp src/RandomGenerator.hpp
-        test/MockRandomGenerator.cpp)
+add_executable(GMockTestExamples test/main.cpp 
+        src/CoinFlipper.cpp  src/CoinFlipper.hpp src/RandomGenerator.hpp)
   
 
 target_link_libraries(GMockTestExamples ${GTEST_BOTH_LIBRARIES}  ${CMAKE_THREAD_LIBS_INIT} pthread)

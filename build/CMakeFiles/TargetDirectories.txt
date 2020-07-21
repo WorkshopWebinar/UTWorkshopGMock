@@ -1,4 +1,0 @@
-/home/ubuntu18/UTWorkshop/working-setup/UTWorkshopGMock/build/CMakeFiles/rebuild_cache.dir
-/home/ubuntu18/UTWorkshop/working-setup/UTWorkshopGMock/build/CMakeFiles/edit_cache.dir
-/home/ubuntu18/UTWorkshop/working-setup/UTWorkshopGMock/build/CMakeFiles/GMockTestExamples.dir
-/home/ubuntu18/UTWorkshop/working-setup/UTWorkshopGMock/build/CMakeFiles/test.dir

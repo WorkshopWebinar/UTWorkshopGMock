@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/GMockTestExamples.dir/src/CoinFlipper.cpp.o CMakeFiles/GMockTestExamples.dir/test/MockRandomGenerator.cpp.o  -o GMockTestExamples -lgtest -lgtest_main -lpthread -lgmock -lgmock_main -lpthread -lgmock -lgmock_main 
